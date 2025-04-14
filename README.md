@@ -2,6 +2,7 @@
 
 ## Introduction
 
+Some changes by Luix
 A starting point for Neovim that is:
 
 * Small
